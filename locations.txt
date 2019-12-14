@@ -3,6 +3,7 @@ Goa, India
 Tehran, Iran
 Jalandhar, India
 Gatineau, Canada
+Daharki, Pakistan
 Lincoln, Pennsylvania
 Changchun, China
 San Ramon, California
@@ -69,6 +70,7 @@ Fontainebleau, France
 Barisal, Bangladesh
 Bagerhat, Bangladesh
 Kingston, Canada
+Daharki,Pakistan
 Trichy,India
 Reading, Pennsylvania
 Mysore, India
@@ -77,6 +79,7 @@ Plano, Illinois
 Ciudad de Guatemala, Guatemala
 Daegu, South Korea
 Ho Chi Minh City, Vietnam
+Daharki, Pakistan
 St. Catharines, Canada
 Dzerzhinsk, Russia
 Streamwood, Untied States of America
@@ -98,6 +101,7 @@ Prosotsani, Greece
 Tarija, Bolivia
 Viacha, Bolivia
 Pando, Bolivia
+Daharki, Pakistan
 Ajah, Lagos
 Iviukhua, Edo
 Mushin, Lagos
